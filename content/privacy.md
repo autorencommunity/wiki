@@ -9,7 +9,7 @@ images: []
 type: "legal"
 ---
 
-Diese Webseite wird betrieben von:
+Diese Webseite (nicht aber die assoziierte Discord-Commuinity) wird betrieben von:
 
 Katharina Bogad<br>
 3001 Mauerbach<br>
